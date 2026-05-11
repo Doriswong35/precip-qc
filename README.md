@@ -23,7 +23,7 @@ Built for field hydrology / meteorology workflows: match CSV spreadsheet reading
 7. When finished: End & Export all output files
 
 ## User Manual
-Full detailed step-by-step user guide [here] (https://github.com/Doriswong35/precip-qc/blob/main/precip_qcv4_manual_1.1.pdf)
+Full detailed step-by-step user guide [here](https://github.com/Doriswong35/precip-qc/blob/main/precip_qcv4_manual_1.1.pdf)
 
 ## Tech Stack
 - Pure HTML / CSS / Vanilla JavaScript
