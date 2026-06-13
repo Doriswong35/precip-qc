@@ -14,7 +14,7 @@ Built for field hydrology / meteorology workflows: match CSV spreadsheet reading
   - Structured JSON review log with notes & corrected values, for potential training of AI tools
 
 ## How to Use
-1. Download `PrecipQC.html` and open it in Google Chrome or Microsoft Edge 
+1. Download `PrecipQC_v5.html` and open it in Google Chrome
 2. Load your gauge CSV file
 3. (Optional) Load tipping bucket CSV
 4. Select your local image folder
@@ -23,7 +23,7 @@ Built for field hydrology / meteorology workflows: match CSV spreadsheet reading
 7. When finished: End & Export all output files
 
 ## User Manual
-Full detailed step-by-step user guide [here](https://github.com/Doriswong35/precip-qc/blob/main/precip_qcv4_manual_1.1.pdf)
+Full detailed step-by-step user guide [here](https://github.com/Doriswong35/precip-qc/blob/main/precip_qcv5_manual_1.1.pdf)
 
 ## Tech Stack
 - Pure HTML / CSS / Vanilla JavaScript
